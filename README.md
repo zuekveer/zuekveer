@@ -2,5 +2,5 @@
 
 ## Hi, I'm Artem Valid! 
 
-quick connection, message: https://t.me/zuekveer
-languages:                 english, russian, german
+quick connection, message:&emsp;https://t.me/zuekveer<br>
+languages:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;english, russian, german
