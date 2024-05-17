@@ -1,7 +1,5 @@
 
 
-## Hi, I'm Artem Valid! 
+## objects in mirror are closer than they appear
 
 quick connection, message:&emsp;&emsp;<a href="https://t.me/zuekveer">telegram</a><br>
-algo fun:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://www.codewars.com/users/zuekveer">codewars</a>&emsp;<a href="https://leetcode.com/u/zuekveer">leetcode</a><br>
-languages:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;english, russian, german<br>
